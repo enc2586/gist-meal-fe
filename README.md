@@ -72,7 +72,7 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com].
+For any questions or suggestions, please contact [enc2586@gmail.com].
 
 ---
 
@@ -150,4 +150,4 @@ REACT_APP_API_URL=<YOUR_BACKEND_API_URL>
 
 ## 문의
 
-질문이나 제안 사항이 있다면 [your-email@example.com]으로 연락해 주세요.
+질문이나 제안 사항이 있다면 [enc2586@gmail.com]으로 연락해 주세요.
