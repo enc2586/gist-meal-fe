@@ -12,7 +12,7 @@ This project, `gist-meal-fe`, is the frontend of the `gist-meal` website. It dis
 
 ## Installation and Running Locally
 
-To run this project locally, you will need `Node.js` and `npm` (or `yarn`) installed.
+To run this project locally, you will need `Node.js` and `npm` installed.
 
 ### Step 1: Clone the Repository
 
@@ -27,22 +27,10 @@ $ cd gist-meal-fe
 $ npm install
 ```
 
-Or with yarn:
-
-```bash
-$ yarn install
-```
-
 ### Step 3: Run the Development Server
 
 ```bash
 $ npm start
-```
-
-Or with yarn:
-
-```bash
-$ yarn start
 ```
 
 After running the above command, the project will be available at `http://localhost:3000`.
@@ -90,7 +78,7 @@ For any questions or suggestions, please contact [enc2586@gmail.com].
 
 ## 설치 및 로컬 실행 방법
 
-이 프로젝트를 로컬에서 실행하려면, `Node.js`와 `npm` (또는 `yarn`)이 필요합니다.
+이 프로젝트를 로컬에서 실행하려면, `Node.js`와 `npm`이 필요합니다.
 
 ### 1단계: 리포지토리 클론하기
 
@@ -105,22 +93,10 @@ $ cd gist-meal-fe
 $ npm install
 ```
 
-또는 yarn:
-
-```bash
-$ yarn install
-```
-
 ### 3단계: 개발 서버 실행
 
 ```bash
 $ npm start
-```
-
-또는 yarn:
-
-```bash
-$ yarn start
 ```
 
 위 명령을 실행한 후, `http://localhost:3000`에서 프로젝트를 확인할 수 있습니다.
